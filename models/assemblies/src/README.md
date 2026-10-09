@@ -51,6 +51,7 @@ One script per group: the assembly is composed inside one model body.
 | `six_axis_industrial_robot_arm/six_axis_industrial_robot_arm.py` | `STEP/six_axis_industrial_robot_arm/six_axis_industrial_robot_arm.step` | Labeled six-axis industrial robot arm display assembly |
 | `six_blade_open_propeller/six_blade_open_propeller.py` | `STEP/six_blade_open_propeller/six_blade_open_propeller.step` | Six-blade open propeller |
 | `spiral_staircase/spiral_staircase.py` | `STEP/spiral_staircase/spiral_staircase.step` | Miniature spiral staircase model |
+| `power_transmission/power_transmission.py` | `STEP/power_transmission/power_transmission.step + STL/power_transmission/power_transmission.stl` | Textbook power-transmission assembly: 6003 bearings, M2 Z34 spur gear, coupling |
 
 ### Multi-model assemblies
 
